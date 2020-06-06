@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960181008445",
+    "firebase_url": "https://chatapp-30fa9.firebaseio.com",
+    "project_id": "chatapp-30fa9",
+    "storage_bucket": "chatapp-30fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960181008445:android:74c9c6104067c29bb0d254",
+        "android_client_info": {
+          "package_name": "com.dassani.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960181008445-j9vdtea2j97fvvj1d87qvn0m0jqbvnba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-h-kCQtXPovlmQsJPWF1YlgvSEIoUcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960181008445-j9vdtea2j97fvvj1d87qvn0m0jqbvnba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
